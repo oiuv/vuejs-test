@@ -35,6 +35,6 @@
     $fa-font-path: "~font-awesome/fonts/";
     @import "~bootstrap-sass/assets/stylesheets/_bootstrap";
     @import "~font-awesome/scss/font-awesome";
-    
+
     body > .container { margin-top: 15px;}
 </style>
