@@ -1,7 +1,10 @@
 <template>
     <div id="wrap">
-        <the-header></the-header>
-        <the-footer></the-footer>
+        <the-header />
+        <div id="main-container" class="main-container">
+            <router-view/>
+        </div>
+        <the-footer />
     </div>
 </template>
 
